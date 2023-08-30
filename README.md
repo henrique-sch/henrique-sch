@@ -9,10 +9,11 @@
 
 - 📫 Contato **henrique.schinaider@live.com**
 
-<h3 align="left">Minhas redes sociais:</h3>
+<h3 align="left">Minhas redes:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/henrique schinaider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henrique schinaider" height="30" width="40" /></a>
 <a href="https://instagram.com/_hschinaider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hschinaider" height="30" width="40" /></a>
+<a href="https://lattes.cnpq.br/4197384364512595" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/829487/19294883/ecba2708-9006-11e6-86c7-b467305cc88b.png" alt="_hschinaider" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Minhas linguagens e ferramentas:</h3>
