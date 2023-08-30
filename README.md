@@ -1,5 +1,5 @@
 <h1 align="center">Bem vindo 🧑🏻‍💻, meu nome é Henrique Schinaider da Silva!</h1>
-<h3 align="center">Sou um entusiasta de desenvolvimento backend, mas com experiência no mundo do front-end também. Meu entusiasmo reside na criação, otimização e evolução da lógica por trás das aplicações, sempre visando sistemas robustos e eficientes. Ao mesmo tempo mantenho o interesse vivo na parte visual, equilibrando funcionalidade com estética 🧠🖥️</h3>
+<h3 align="center">Sou um entusiasta de desenvolvimento backend, mas com experiência no mundo do front-end também. Minha motivação reside na criação, otimização e evolução da lógica por trás das aplicações, sempre visando sistemas robustos e eficientes. Ao mesmo tempo mantenho o interesse vivo na parte visual, equilibrando funcionalidade com estética 🧠🖥️</h3>
 
 - 🔭 Atualmente estou trabalhando em [RESTful API piloto para um banco](git@github.com:henrique-sch/desafio-backend-m02-b2b-t06.git)
 
